@@ -1,0 +1,36 @@
+/* HotelPro Luxury Design Tokens */
+:root {
+  /* Brand Color Palette */
+  --hp-primary-gold: #c5a880;
+  --hp-primary-gold-hover: #b39367;
+  --hp-primary-gold-light: #f7f3ec;
+  --hp-dark-navy: #0d1b2a;
+  --hp-dark-surface: #1b263b;
+  --hp-slate: #415a77;
+  --hp-light-bg: #f8f9fa;
+  --hp-card-bg: #ffffff;
+  --hp-border-color: #e9ecef;
+  --hp-text-main: #2b2d42;
+  --hp-text-muted: #6c757d;
+
+  /* Status Colors */
+  --hp-status-available: #28a745;
+  --hp-status-occupied: #dc3545;
+  --hp-status-maintenance: #ffc107;
+  --hp-status-hold: #fd7e14;
+
+  /* Typography */
+  --hp-font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --hp-font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Elevation Shadows */
+  --hp-shadow-sm: 0 2px 4px rgba(13, 27, 42, 0.05);
+  --hp-shadow-md: 0 4px 12px rgba(13, 27, 42, 0.08);
+  --hp-shadow-lg: 0 8px 24px rgba(13, 27, 42, 0.12);
+
+  /* Border Radius */
+  --hp-radius-sm: 6px;
+  --hp-radius-md: 10px;
+  --hp-radius-lg: 16px;
+  --hp-radius-pill: 50px;
+}
